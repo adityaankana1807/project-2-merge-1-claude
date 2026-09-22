@@ -1,0 +1,37 @@
+﻿concept,language,phrase,data_kind
+forced_lock,en,forced lock,handwritten_demo_lexicon
+forced_lock,hi,ताला तोड़ा,handwritten_demo_lexicon
+forced_lock,te,తాళం పగలగొట్టి,handwritten_demo_lexicon
+forced_lock,ta,பூட்டை உடைத்து,handwritten_demo_lexicon
+forced_lock,kn,ಬೀಗ ಒಡೆದು,handwritten_demo_lexicon
+forced_lock,bn,তালা ভেঙে,handwritten_demo_lexicon
+window,en,window,handwritten_demo_lexicon
+window,hi,खिड़की,handwritten_demo_lexicon
+window,te,కిటికీ,handwritten_demo_lexicon
+window,ta,ஜன்னல்,handwritten_demo_lexicon
+window,kn,ಕಿಟಕಿ,handwritten_demo_lexicon
+window,bn,জানালা,handwritten_demo_lexicon
+cash,en,cash,handwritten_demo_lexicon
+cash,hi,नकदी,handwritten_demo_lexicon
+cash,te,నగదు,handwritten_demo_lexicon
+cash,ta,பணம்,handwritten_demo_lexicon
+cash,kn,ನಗದು,handwritten_demo_lexicon
+cash,bn,নগদ,handwritten_demo_lexicon
+jewellery,en,jewellery,handwritten_demo_lexicon
+jewellery,hi,गहने,handwritten_demo_lexicon
+jewellery,te,నగలు,handwritten_demo_lexicon
+jewellery,ta,நகை,handwritten_demo_lexicon
+jewellery,kn,ಆಭರಣ,handwritten_demo_lexicon
+jewellery,bn,গয়না,handwritten_demo_lexicon
+motorcycle,en,motorcycle,handwritten_demo_lexicon
+motorcycle,hi,मोटरसाइकिल,handwritten_demo_lexicon
+motorcycle,te,మోటార్ సైకిల్,handwritten_demo_lexicon
+motorcycle,ta,மோட்டார் சைக்கிள்,handwritten_demo_lexicon
+motorcycle,kn,ಮೋಟಾರ್ ಸೈಕಲ್,handwritten_demo_lexicon
+motorcycle,bn,মোটরসাইকেল,handwritten_demo_lexicon
+foot,en,on foot,handwritten_demo_lexicon
+foot,hi,पैदल,handwritten_demo_lexicon
+foot,te,కాలినడక,handwritten_demo_lexicon
+foot,ta,நடந்து,handwritten_demo_lexicon
+foot,kn,ನಡೆದು,handwritten_demo_lexicon
+foot,bn,পায়ে হেঁটে,handwritten_demo_lexicon
