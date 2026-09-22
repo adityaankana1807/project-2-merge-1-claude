@@ -1,0 +1,317 @@
+{
+  "n_districts": 822,
+  "census_match_quality": {
+    "exact": 465,
+    "none": 213,
+    "fuzzy": 149
+  },
+  "geo_match_quality": {
+    "exact": 434,
+    "none": 263,
+    "fuzzy": 130
+  },
+  "graph_nodes": 822,
+  "graph_edges": 1388,
+  "graph_isolates": 259,
+  "reporting_shock_flags_n": 5714,
+  "monthly_panel_rows": 1547460,
+  "forecast_results": {
+    "theft": {
+      "nb_glm": {
+        "val": {
+          "mae": 8.398462847522646,
+          "mae_naive_baseline": 6.475195998918626,
+          "precision_at": {
+            "10": 0.8611111111111112,
+            "25": 0.9133333333333333,
+            "50": 0.9355555555555556
+          }
+        },
+        "test": {
+          "mae": 7.8831378535062155,
+          "mae_naive_baseline": 6.120100027034334,
+          "precision_at": {
+            "10": 0.9111111111111111,
+            "25": 0.9133333333333333,
+            "50": 0.9344444444444444
+          }
+        }
+      },
+      "hgb_poisson": {
+        "val": {
+          "mae": 5.549622686505307,
+          "mae_naive_baseline": 6.475195998918626,
+          "precision_at": {
+            "10": 0.8888888888888888,
+            "25": 0.9288888888888889,
+            "50": 0.94
+          }
+        },
+        "test": {
+          "mae": 4.963773550659811,
+          "mae_naive_baseline": 6.120100027034334,
+          "precision_at": {
+            "10": 0.9,
+            "25": 0.9266666666666666,
+            "50": 0.9333333333333333
+          }
+        }
+      }
+    },
+    "burglary": {
+      "nb_glm": {
+        "val": {
+          "mae": 3.3150070999271843,
+          "mae_naive_baseline": 2.906461205731279,
+          "precision_at": {
+            "10": 0.8388888888888889,
+            "25": 0.8933333333333333,
+            "50": 0.7777777777777778
+          }
+        },
+        "test": {
+          "mae": 3.1670734125667437,
+          "mae_naive_baseline": 2.932616923492836,
+          "precision_at": {
+            "10": 0.85,
+            "25": 0.8711111111111111,
+            "50": 0.7944444444444444
+          }
+        }
+      },
+      "hgb_poisson": {
+        "val": {
+          "mae": 2.3717124145930897,
+          "mae_naive_baseline": 2.906461205731279,
+          "precision_at": {
+            "10": 0.8666666666666667,
+            "25": 0.8911111111111111,
+            "50": 0.7811111111111111
+          }
+        },
+        "test": {
+          "mae": 2.2871423326427838,
+          "mae_naive_baseline": 2.932616923492836,
+          "precision_at": {
+            "10": 0.8166666666666667,
+            "25": 0.8688888888888889,
+            "50": 0.8055555555555556
+          }
+        }
+      }
+    },
+    "dowry_deaths": {
+      "nb_glm": {
+        "val": {
+          "mae": 0.7858421023145488,
+          "mae_naive_baseline": 0.7039740470397404,
+          "precision_at": {
+            "10": 0.4222222222222222,
+            "25": 0.4888888888888889,
+            "50": 0.5266666666666666
+          }
+        },
+        "test": {
+          "mae": 0.7899804576880795,
+          "mae_naive_baseline": 0.7077588537442552,
+          "precision_at": {
+            "10": 0.43333333333333335,
+            "25": 0.4622222222222222,
+            "50": 0.5133333333333333
+          }
+        }
+      },
+      "hgb_poisson": {
+        "val": {
+          "mae": 0.605123011190085,
+          "mae_naive_baseline": 0.7039740470397404,
+          "precision_at": {
+            "10": 0.4166666666666667,
+            "25": 0.4911111111111111,
+            "50": 0.5188888888888888
+          }
+        },
+        "test": {
+          "mae": 0.6073832555403025,
+          "mae_naive_baseline": 0.7077588537442552,
+          "precision_at": {
+            "10": 0.4,
+            "25": 0.48,
+            "50": 0.52
+          }
+        }
+      }
+    }
+  },
+  "n_synthetic_cases": 1691,
+  "n_synthetic_offenders": 1000,
+  "mo_field_weights": {
+    "entry_method": 2.2431859195519745,
+    "weapon_type": 0.9981388272736815,
+    "target_type": 1.1761325983908144,
+    "property_stolen": 0.8583410933726886,
+    "transport_mode": 0.5762486835188534,
+    "disguise_used": 0.39741137330106746,
+    "restraint_used": -0.011983107369583535,
+    "time_of_day_band": 0.8416035564815937
+  },
+  "geo_temporal_scales": {
+    "global_lambda_km": 19.712337591760765,
+    "global_tau_days": 37.0,
+    "local_lambda": {
+      "VIOLENT_PERSONAL": 23.596298902544312,
+      "ACQUISITIVE_VIOLENT": 19.223370717737804,
+      "ACQUISITIVE_PROPERTY": 18.50516449277329,
+      "CYBER_FINANCIAL": 21.86024014033628
+    },
+    "local_tau": {
+      "VIOLENT_PERSONAL": 31.0,
+      "ACQUISITIVE_VIOLENT": 34.0,
+      "ACQUISITIVE_PROPERTY": 44.0,
+      "CYBER_FINANCIAL": 32.0
+    }
+  },
+  "linkage_feature_coefficients": {
+    "s_space": -1.6787699637928757,
+    "s_time": 0.0901685653961913,
+    "mo_score": 0.007251135125503379,
+    "mo_coverage": 0.166266195556481,
+    "ifs_score": 0.1252632605837343,
+    "text_score": 0.18520071516029243,
+    "hawkes_interaction": 0.7179842198343221,
+    "crime_compat": 4.423933259915617,
+    "distance_km_capped": -6.187922592425121,
+    "day_gap_capped": -8.116701582747421
+  },
+  "linkage_val_metrics": {
+    "auc": 0.9997302546396202,
+    "average_precision": 0.9965557721835315,
+    "brier": 0.0034432747028186887,
+    "recall_at_1": 1.0,
+    "recall_at_5": 1.0,
+    "recall_at_10": 1.0,
+    "recall_at_25": 1.0,
+    "recall_at_50": 1.0,
+    "mrr": 1.0,
+    "median_first_rank": 1.0,
+    "n_queries_with_match": 84
+  },
+  "linkage_test_metrics": {
+    "auc": 0.9993141877411059,
+    "average_precision": 0.9921022799495178,
+    "brier": 0.005713777535371788,
+    "recall_at_1": 1.0,
+    "recall_at_5": 1.0,
+    "recall_at_10": 1.0,
+    "recall_at_25": 1.0,
+    "recall_at_50": 1.0,
+    "mrr": 1.0,
+    "median_first_rank": 1.0,
+    "n_queries_with_match": 87
+  },
+  "linkage_ablations": [
+    {
+      "feature_set": "space_only",
+      "auc": 0.9639362014122318,
+      "average_precision": 0.5000056826392671,
+      "brier": 0.04196453313795357,
+      "recall_at_1": 0.7816091954022989,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 0.8773946360153256,
+      "median_first_rank": 1.0,
+      "n_queries_with_match": 87
+    },
+    {
+      "feature_set": "time_only",
+      "auc": 0.9580503981771832,
+      "average_precision": 0.5145723673875002,
+      "brier": 0.0924526571098869,
+      "recall_at_1": 0.7931034482758621,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 0.8879310344827585,
+      "median_first_rank": 1.0,
+      "n_queries_with_match": 87
+    },
+    {
+      "feature_set": "mo_only",
+      "auc": 0.8728946240440364,
+      "average_precision": 0.42056349719540004,
+      "brier": 0.13743850709441827,
+      "recall_at_1": 0.7241379310344828,
+      "recall_at_5": 0.9655172413793104,
+      "recall_at_10": 0.9770114942528736,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 0.8278683002820934,
+      "median_first_rank": 1.0,
+      "n_queries_with_match": 87
+    },
+    {
+      "feature_set": "text_only",
+      "auc": 0.5445383175040044,
+      "average_precision": 0.11129309946924242,
+      "brier": 0.24996990557809684,
+      "recall_at_1": 0.3448275862068966,
+      "recall_at_5": 0.632183908045977,
+      "recall_at_10": 0.9195402298850575,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 0.49872829915933375,
+      "median_first_rank": 3.0,
+      "n_queries_with_match": 87
+    },
+    {
+      "feature_set": "geo_temporal",
+      "auc": 0.9939720711981411,
+      "average_precision": 0.854821425468469,
+      "brier": 0.0158333822913928,
+      "recall_at_1": 0.9310344827586207,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 0.9616858237547893,
+      "median_first_rank": 1.0,
+      "n_queries_with_match": 87
+    },
+    {
+      "feature_set": "full",
+      "auc": 0.9993638188914206,
+      "average_precision": 0.9926763291406979,
+      "brier": 0.0088344657270181,
+      "recall_at_1": 1.0,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "recall_at_25": 1.0,
+      "recall_at_50": 1.0,
+      "mrr": 1.0,
+      "median_first_rank": 1.0,
+      "n_queries_with_match": 87
+    }
+  ],
+  "linkage_cross_state_generalization": {
+    "auc": 0.996914061051148,
+    "average_precision": 0.9572678958481222,
+    "brier": 0.012398756804761107,
+    "recall_at_1": 0.972972972972973,
+    "recall_at_5": 1.0,
+    "recall_at_10": 1.0,
+    "recall_at_25": 1.0,
+    "recall_at_50": 1.0,
+    "mrr": 0.9822822822822823,
+    "median_first_rank": 1.0,
+    "n_queries_with_match": 111,
+    "test_states": [
+      "assam",
+      "tamil nadu",
+      "jammu and kashmir",
+      "maharashtra"
+    ]
+  }
+}

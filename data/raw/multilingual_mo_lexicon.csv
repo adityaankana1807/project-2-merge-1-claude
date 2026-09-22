@@ -1,37 +1,98 @@
-﻿concept,language,phrase,data_kind
-forced_lock,en,forced lock,handwritten_demo_lexicon
-forced_lock,hi,ताला तोड़ा,handwritten_demo_lexicon
-forced_lock,te,తాళం పగలగొట్టి,handwritten_demo_lexicon
-forced_lock,ta,பூட்டை உடைத்து,handwritten_demo_lexicon
-forced_lock,kn,ಬೀಗ ಒಡೆದು,handwritten_demo_lexicon
-forced_lock,bn,তালা ভেঙে,handwritten_demo_lexicon
-window,en,window,handwritten_demo_lexicon
-window,hi,खिड़की,handwritten_demo_lexicon
-window,te,కిటికీ,handwritten_demo_lexicon
-window,ta,ஜன்னல்,handwritten_demo_lexicon
-window,kn,ಕಿಟಕಿ,handwritten_demo_lexicon
-window,bn,জানালা,handwritten_demo_lexicon
-cash,en,cash,handwritten_demo_lexicon
-cash,hi,नकदी,handwritten_demo_lexicon
-cash,te,నగదు,handwritten_demo_lexicon
-cash,ta,பணம்,handwritten_demo_lexicon
-cash,kn,ನಗದು,handwritten_demo_lexicon
-cash,bn,নগদ,handwritten_demo_lexicon
-jewellery,en,jewellery,handwritten_demo_lexicon
-jewellery,hi,गहने,handwritten_demo_lexicon
-jewellery,te,నగలు,handwritten_demo_lexicon
-jewellery,ta,நகை,handwritten_demo_lexicon
-jewellery,kn,ಆಭರಣ,handwritten_demo_lexicon
-jewellery,bn,গয়না,handwritten_demo_lexicon
-motorcycle,en,motorcycle,handwritten_demo_lexicon
-motorcycle,hi,मोटरसाइकिल,handwritten_demo_lexicon
-motorcycle,te,మోటార్ సైకిల్,handwritten_demo_lexicon
-motorcycle,ta,மோட்டார் சைக்கிள்,handwritten_demo_lexicon
-motorcycle,kn,ಮೋಟಾರ್ ಸೈಕಲ್,handwritten_demo_lexicon
-motorcycle,bn,মোটরসাইকেল,handwritten_demo_lexicon
-foot,en,on foot,handwritten_demo_lexicon
-foot,hi,पैदल,handwritten_demo_lexicon
-foot,te,కాలినడక,handwritten_demo_lexicon
-foot,ta,நடந்து,handwritten_demo_lexicon
-foot,kn,ನಡೆದು,handwritten_demo_lexicon
-foot,bn,পায়ে হেঁটে,handwritten_demo_lexicon
+concept,language,phrase,data_kind
+forced_lock,en,forced lock,seed_lexicon
+forced_lock,hi,ताला तोड़ा,seed_lexicon
+forced_lock,te,తాళం పగలగొట్టి,seed_lexicon
+forced_lock,ta,பூட்டை உடைத்து,seed_lexicon
+forced_lock,kn,ಬೀಗ ಒಡೆದು,seed_lexicon
+forced_lock,bn,তালা ভেঙে,seed_lexicon
+window,en,window,seed_lexicon
+window,hi,खिड़की,seed_lexicon
+window,te,కిటికీ,seed_lexicon
+window,ta,ஜன்னல்,seed_lexicon
+window,kn,ಕಿಟಕಿ,seed_lexicon
+window,bn,জানালা,seed_lexicon
+cash,en,cash,seed_lexicon
+cash,hi,नकदी,seed_lexicon
+cash,te,నగదు,seed_lexicon
+cash,ta,பணம்,seed_lexicon
+cash,kn,ನಗದು,seed_lexicon
+cash,bn,নগদ,seed_lexicon
+jewellery,en,jewellery,seed_lexicon
+jewellery,hi,गहने,seed_lexicon
+jewellery,te,నగలు,seed_lexicon
+jewellery,ta,நகை,seed_lexicon
+jewellery,kn,ಆಭರಣ,seed_lexicon
+jewellery,bn,গয়না,seed_lexicon
+motorcycle,en,motorcycle,seed_lexicon
+motorcycle,hi,मोटरसाइकिल,seed_lexicon
+motorcycle,te,మోటార్ సైకిల్,seed_lexicon
+motorcycle,ta,மோட்டார் சைக்கிள்,seed_lexicon
+motorcycle,kn,ಮೋಟಾರ್ ಸೈಕಲ್,seed_lexicon
+motorcycle,bn,মোটরসাইকেল,seed_lexicon
+foot,en,on foot,seed_lexicon
+foot,hi,पैदल,seed_lexicon
+foot,te,కాలినడక,seed_lexicon
+foot,ta,நடந்து,seed_lexicon
+foot,kn,ನಡೆದು,seed_lexicon
+foot,bn,পায়ে হেঁটে,seed_lexicon
+knife,en,knife,seed_lexicon
+knife,hi,चाकू,seed_lexicon
+knife,te,కత్తి,seed_lexicon
+knife,ta,கத்தி,seed_lexicon
+knife,kn,ಚಾಕು,seed_lexicon
+knife,bn,ছুরি,seed_lexicon
+firearm,en,firearm,seed_lexicon
+firearm,hi,तमंचा,seed_lexicon
+firearm,te,తుపాకీ,seed_lexicon
+firearm,ta,துப்பாக்கி,seed_lexicon
+firearm,kn,ಬಂದೂಕು,seed_lexicon
+firearm,bn,বন্দুক,seed_lexicon
+mask_disguise,en,mask,seed_lexicon
+mask_disguise,hi,नकाब,seed_lexicon
+mask_disguise,te,ముసుగు,seed_lexicon
+mask_disguise,ta,முகமூடி,seed_lexicon
+mask_disguise,kn,ಮುಖವಾಡ,seed_lexicon
+mask_disguise,bn,মুখোশ,seed_lexicon
+rope_binding,en,rope,seed_lexicon
+rope_binding,hi,रस्सी,seed_lexicon
+rope_binding,te,తాడు,seed_lexicon
+rope_binding,ta,கயிறு,seed_lexicon
+rope_binding,kn,ಹಗ್ಗ,seed_lexicon
+rope_binding,bn,দড়ি,seed_lexicon
+threat,en,threat,seed_lexicon
+threat,hi,धमकी,seed_lexicon
+threat,te,బెదిరింపు,seed_lexicon
+threat,ta,மிரட்டல்,seed_lexicon
+threat,kn,ಬೆದರಿಕೆ,seed_lexicon
+threat,bn,হুমকি,seed_lexicon
+chain_snatching,en,chain snatching,seed_lexicon
+chain_snatching,hi,चेन स्नैचिंग,seed_lexicon
+chain_snatching,te,చైన్ స్నాచింగ్,seed_lexicon
+chain_snatching,ta,செயின் பறிப்பு,seed_lexicon
+chain_snatching,kn,ಚೈನ್ ಕಳ್ಳತನ,seed_lexicon
+chain_snatching,bn,চেন ছিনতাই,seed_lexicon
+car,en,car,seed_lexicon
+car,hi,कार,seed_lexicon
+car,te,కారు,seed_lexicon
+car,ta,கார்,seed_lexicon
+car,kn,ಕಾರು,seed_lexicon
+car,bn,গাড়ি,seed_lexicon
+door_broken,en,door broken,seed_lexicon
+door_broken,hi,दरवाजा तोड़ा,seed_lexicon
+door_broken,te,తలుపు పగలగొట్టారు,seed_lexicon
+door_broken,ta,கதவு உடைக்கப்பட்டது,seed_lexicon
+door_broken,kn,ಬಾಗಿಲು ಮುರಿದರು,seed_lexicon
+door_broken,bn,দরজা ভাঙা,seed_lexicon
+grill_cut,en,grill cut,seed_lexicon
+grill_cut,hi,ग्रिल काटी,seed_lexicon
+unknown_offender,en,unidentified,seed_lexicon
+unknown_offender,hi,अज्ञात,seed_lexicon
+unknown_offender,te,గుర్తు తెలియని,seed_lexicon
+unknown_offender,ta,அடையாளம் தெரியாத,seed_lexicon
+unknown_offender,kn,ಅಪರಿಚಿತ,seed_lexicon
+unknown_offender,bn,অজ্ঞাত,seed_lexicon
+country_pistol_slang,hi-latn,desi katta,slang_seed_lexicon
+country_pistol_slang,hi-latn,tamancha,slang_seed_lexicon
+lock_break_slang,hi-latn,taala tod kar,slang_seed_lexicon
+strangulation_slang,hi-latn,gala ghont kar,slang_seed_lexicon
+night_burglary_slang,hi-latn,nakabjani,slang_seed_lexicon
